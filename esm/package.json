@@ -1,0 +1,21 @@
+{
+  "name": "eyebleach-esm",
+  "description": "ESM module for the eyebleach package",
+  "author": "Nicolas M. Barrios - github.com/DelicousSourceCode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "eyebleach",
+    "eyebleach-js",
+    "eyebleach.js",
+    "filter-text",
+    "sanitize-text",
+    "filter-swear-words",
+    "filter-bad-words"
+  ],
+  "bugs": {
+    "url": "https://www.github.com/DelicousSourceCode/eyebleach/issues"
+  },
+  "homepage": "https://www.github.com/DelicousSourceCode/eyebleach"
+}
