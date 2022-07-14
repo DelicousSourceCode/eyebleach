@@ -20,7 +20,12 @@ or by using ESM:
 ~~~js
 import eyebleach from 'eyebleach/esm'
 ~~~
-This gives you access to the ```eyebleach``` function and the filter list. The  ```eyebleach which parses a string and replaces it with a character. The list items can be modified with the ```setListItem``` and the```deleteListItem``` functions.
+This gives you access to the ```eyebleach``` function and the filter list. The filter list contains all of the banned words that the main function parses and replaces with a character:
+
+~~~js
+eyebleach.setListItem('world')
+eyebleach('Hello world!', '*')
+~~~
 
 ## Example
 ~~~js
