@@ -5,15 +5,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "keywords": [
-    "eyebleach",
-    "eyebleach-js",
-    "eyebleach.js",
-    "filter-text",
-    "sanitize-text",
-    "filter-swear-words",
-    "filter-bad-words"
-  ],
   "bugs": {
     "url": "https://www.github.com/DelicousSourceCode/eyebleach/issues"
   },
